@@ -12,7 +12,7 @@ While learning about Data Science and Machine Learning I have implemented a few 
 This project involves exploring the banking data set available via Kaggle to understand what kind of a customer the bank should offer a loan to. The dataset has been slightly modified through certain coursework requirements, however, for the purposes of pure Data Analytics & EDA.
 
 
-2. **Telecom Churn Example** 
+2. **Telecom Churn** 
 **Problem Statement**
 You have a telecom firm which has collected data of all its customers. The main types of attributes are:
     - Demographics (age, gender etc.)
